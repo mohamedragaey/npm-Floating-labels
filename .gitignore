@@ -10,4 +10,3 @@
 /.babelrc
 /src/js/*
 /dist/js/*
-/package-lock.json
