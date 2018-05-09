@@ -1,0 +1,13 @@
+/.idea/*
+/node_modules/*
+/webpack.config.js
+/webpack.common.js
+/webpack.dev.js
+/webpack.prod.js
+/postcss.config.js
+/index.html
+/.eslintrc
+/.babelrc
+/src/js/*
+/dist/js/*
+/package-lock.json

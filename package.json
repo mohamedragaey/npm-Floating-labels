@@ -1,0 +1,24 @@
+{
+  "name": "floating-labels",
+  "version": "1.0.0",
+  "description": "floating label package build on bootstrap",
+  "main": "src/floating-labels.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohamedragaey/npm-Floating-labels.git"
+  },
+  "keywords": [
+    "npm",
+    "floating",
+    "labels"
+  ],
+  "author": "Mohamed Ragey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedragaey/npm-Floating-labels/issues"
+  },
+  "homepage": "https://github.com/mohamedragaey/npm-Floating-labels#readme"
+}
