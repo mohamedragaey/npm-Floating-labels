@@ -1,6 +1,6 @@
 {
   "name": "floating-labels",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "floating label package build on bootstrap",
   "main": "src/floating-labels.scss",
   "scripts": {
