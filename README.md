@@ -2,7 +2,7 @@
 
 This Package is build over bootsrtap 3.x 
 
-##installation
+## Installation
 ```bash
 npm install floating-labels --save
 ```
