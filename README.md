@@ -2,6 +2,7 @@
 
 This Package is build over bootsrtap 3.x 
 
+![default-behavior](images/default.gif)
 ## Installation
 ```bash
 npm install floating-labels --save
